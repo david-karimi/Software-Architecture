@@ -69,6 +69,8 @@ public class DKcompetitor {
         return initials.toString().toUpperCase();
     }
 
+
+
 }
 
 
